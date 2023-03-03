@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Flamjingo
 - 👀 I’m interested in learning to code and seeing where it takes me
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on artistic projects
-- 📫 How to reach me connerbrowning1@gmail.com
+- 📫 How to reach me connerbrowning@gmail.com
 
 <!---
 Flamjingo/Flamjingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
